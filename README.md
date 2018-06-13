@@ -1,1 +1,2 @@
-This is a Ged website.
+# GED Website
+This is an official repository
